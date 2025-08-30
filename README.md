@@ -40,7 +40,7 @@ O projeto foi desenvolvido em C padrão e não requer bibliotecas externas, apen
 
 **Passo 1: Compilação**
 
-Navegue até a pasta raiz do projeto ("TP_Forca_Enrico") pelo terminal e execute os seguintes comandos para compilar os arquivos:
+Navegue até a pasta raiz do projeto pelo terminal e execute os seguintes comandos para compilar os arquivos:
 
 gcc -c forca.c
 
