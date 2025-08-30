@@ -1,7 +1,4 @@
-# Jogo da Forca
-===================================================================
-                        JOGO DA FORCA EM C
-===================================================================
+# JOGO DA FORCA EM C
 
 Trabalho Prático Final da disciplina de Programação e Desenvolvimento de Software I (PDS-I), da graduação
 em Engenharia de Sistemas da UFMG.
